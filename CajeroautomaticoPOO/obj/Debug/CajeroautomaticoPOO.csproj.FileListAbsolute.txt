@@ -1,0 +1,8 @@
+C:\Users\piper\source\repos\CajeroautomaticoPOO\CajeroautomaticoPOO\bin\Debug\CajeroautomaticoPOO.exe.config
+C:\Users\piper\source\repos\CajeroautomaticoPOO\CajeroautomaticoPOO\bin\Debug\CajeroautomaticoPOO.exe
+C:\Users\piper\source\repos\CajeroautomaticoPOO\CajeroautomaticoPOO\bin\Debug\CajeroautomaticoPOO.pdb
+C:\Users\piper\source\repos\CajeroautomaticoPOO\CajeroautomaticoPOO\obj\Debug\CajeroautomaticoPOO.csproj.AssemblyReference.cache
+C:\Users\piper\source\repos\CajeroautomaticoPOO\CajeroautomaticoPOO\obj\Debug\CajeroautomaticoPOO.csproj.CoreCompileInputs.cache
+C:\Users\piper\source\repos\CajeroautomaticoPOO\CajeroautomaticoPOO\obj\Debug\CajeroautomaticoPOO.exe
+C:\Users\piper\source\repos\CajeroautomaticoPOO\CajeroautomaticoPOO\obj\Debug\CajeroautomaticoPOO.pdb
+C:\Users\piper\source\repos\CajeroautomaticoPOO\CajeroautomaticoPOO\obj\Debug\CajeroautomaticoPOO.exe.config
